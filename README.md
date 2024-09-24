@@ -86,8 +86,6 @@ Requisitos não funcionais
 <details>
 <summary>MVP Sprint 2</summary>
 
-### MVP da Sprint 2
-
 </details>
 
 
@@ -171,5 +169,5 @@ Requisitos não funcionais
 | Scrum Master  | Ana Júlia do Couto Brandão        |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-couto-brand%C3%A3o-60a78b20b/)        | 
 |  Team Member  | Hellen de Sousa Santos Carmo      |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-sousa-26717b27b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hllncarmo)   |
 |  Team Member  | Marcos Vinicius Restani Avanzini  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-avanzini-7544331b6/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarcosAvanzini)   |
-|  Team Member  | Pedro Luís Cordeiro Dias Lourenço |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lu%C3%ADs-louren%C3%A7o-785314225/)          |
+|  Team Member  | Pedro Luís Cordeiro Dias Lourenço |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lu%C3%ADs-louren%C3%A7o-785314225/)          |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroLouis)) |
 |  Team Member  | Steffany Caroline Vieira Santo    |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steffanysantovi) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Steffanysantovi) |
