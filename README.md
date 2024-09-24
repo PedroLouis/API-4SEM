@@ -19,13 +19,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 30/08/2024 | Concluído || 
-|01| 27/09/2024 | Em Andamento | [Ver Relatório] ()
-|02| 18/10/2024 | Em Andamento | [Ver Relatório] ()
-|03| 08/11/2024 | Em Andamento | [Ver Relatório] ()
-|04| 29/11/2024 | Em Andamento | [Ver Relatório] ()
+|01| 27/09/2024 | Em Andamento | [Ver Relatório]
+|02| 18/10/2024 | Em Andamento | [Ver Relatório]
+|03| 08/11/2024 | Em Andamento | [Ver Relatório]
+|04| 29/11/2024 | Em Andamento | [Ver Relatório]
 
 # Equipe
-![Equipe] ()
+![Equipe]
 
 # Objetivo do Projeto
 
