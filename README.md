@@ -29,9 +29,9 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-* Variação da prancha média operacional de carregamento de granéis (t/h) mensalmente ao longo dos anos de 2014 a 2023, desenvolvendo um modelo de projeção com base em tendência
-* Avaliação da distribuição estatística dos tempos portuários de operação no berço para carregamento de granéis
-* Elaboração de um ranking de eficiência para os 10 principais terminais de movimentação de graneis com base em quantidade de berços e prancha média operacional
+* Variação da prancha média operacional de carregamento de granéis (t/h) mensalmente ao longo dos anos de 2014 a 2023, desenvolvendo um modelo de projeção com base em tendência.
+* Avaliação da distribuição estatística dos tempos portuários de operação no berço para carregamento de granéis.
+* Elaboração de um ranking de eficiência para os 10 principais terminais de movimentação de graneis com base em quantidade de berços e prancha média operacional.
 
 ## Tecnologias Utilizadas
  ### Tecnológias Específicas/Apoio
@@ -64,3 +64,112 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 1</summary>
 
+</details>
+
+<details>
+<summary>MVP Sprint 1</summary>
+
+</details>
+
+<details>
+<summary>Burndown Sprint 1</summary>
+
+</details>
+
+## Sprint 2.
+
+<details>
+<summary>Tarefas Sprint 2</summary>
+
+</details>
+
+<details>
+<summary>MVP Sprint 2</summary>
+
+### MVP da Sprint 2
+
+</details>
+
+
+<details>
+<summary>Burndown Sprint 2</summary>
+
+</details>
+
+## Sprint 3.
+
+<details>
+<summary>Tarefas Sprint 3</summary>
+
+</details>
+
+<details>
+<summary>MVP Sprint 3</summary>
+
+</details>
+
+
+<details>
+<summary>Burndown Sprint 3</summary>
+
+</details>
+
+## Sprint 4.
+
+<details>
+<summary>Tarefas Sprint 4</summary>
+
+</details>
+
+
+<details>
+<summary>MVP Sprint 4</summary>
+
+</details>
+
+<details>
+<summary>Burndown Sprint 4</summary>
+
+</details>
+
+
+# Competências desenvolvidas
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+# Autores
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner | Thayssa Andrade dos Santos        |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thayssa-andrade-531a20200/)  |
+| Scrum Master  | Ana Júlia do Couto Brandão        |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-couto-brand%C3%A3o-60a78b20b/)        | 
+|  Team Member  | Hellen de Sousa Santos Carmo      |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-sousa-26717b27b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hllncarmo)   |
+|  Team Member  | Marcos Vinicius Restani Avanzini  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-avanzini-7544331b6/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarcosAvanzini)   |
+|  Team Member  | Pedro Luís Cordeiro Dias Lourenço |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lu%C3%ADs-louren%C3%A7o-785314225/)          |
+|  Team Member  | Steffany Caroline Vieira Santo    |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steffanysantovi) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Steffanysantovi) |
