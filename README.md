@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |04| 29/11/2024 | Em Andamento | [Ver Relatório]
 
 # Equipe
-![Equipe]()
+![Equipe](https://github.com/user-attachments/assets/53adac1b-8677-4a0a-81a9-5ff279605193)
 
 # Objetivo do Projeto
 
