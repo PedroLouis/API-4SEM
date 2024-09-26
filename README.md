@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |04| 29/11/2024 | Em Andamento | [Ver Relatório]
 
 # Equipe
-![Equipe]
+![Equipe](https://techal2.sharepoint.com/:i:/s/FileServer/ESQmOxN9JZ5Cl5iZiAE9kCABg_wg-jAwVNVoI5KSBHAWUg?e=4xSHdF)
 
 # Objetivo do Projeto
 
