@@ -19,10 +19,15 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 30/08/2024 | Concluído || 
-|01| 27/09/2024 | Em Andamento | [Ver Relatório]
-|02| 18/10/2024 | Em Andamento | [Ver Relatório]
-|03| 08/11/2024 | Em Andamento | [Ver Relatório]
-|04| 29/11/2024 | Em Andamento | [Ver Relatório]
+|00| 27/09/2024 | Concluída | [Ver Relatório]
+() | 
+|01| 18/10/2024 | A fazer | [Ver Relatório]
+() | 
+|02| 08/11/2024 | A fazer | [Ver Relatório]
+() | 
+|03| 29/11/2024 | A fazer | [Ver Relatório]
+() | 
+|Feira de Soluções| 12/12/2024 | A fazer |
 
 # Equipe
 ![Equipe](https://github.com/user-attachments/assets/53adac1b-8677-4a0a-81a9-5ff279605193)
@@ -38,13 +43,12 @@ Sprint | Previsão | Status| Histórico|
  * Jira
  * Power Bi
  * Power Point
- * Chat GPT
  * Phyton
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[ (clique aqui)] ()
+#### Cronograma das Sprints[ (clique aqui)] (https://g3log-2semestre.atlassian.net/jira/software/projects/API4/boards/4/backlog)
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
@@ -59,10 +63,48 @@ Requisitos não funcionais
 
 # Backlog do produto
 
+## Sprint 0.
+
+<details>
+<summary>Tarefas Sprint 1</summary>
+
+- [x] Disponiblizar link do GitHub para o cliente
+- [x] Criar GitHub
+- [x] Criar backlog do produto para todas as sprints
+- [x] Obter base de dados
+- [x] Atribuir tarefa para os integrantes do grupo
+- [x] Estudar as tecnologias que deverão ser usadas ao longo do projeto
+- [x] Tirar dúvidas com o client
+- [x] Realizar relatório da sprint
+- [x] Inserir informações no Github
+- [x] Criar apresentação Sprint 0
+
+</details>
+
+<details>
+<summary>MVP Sprint 0</summary>
+
+</details>
+
+<details>
+<summary>Burndown Sprint 0</summary>
+
+</details>
+
 ## Sprint 1.
 
 <details>
 <summary>Tarefas Sprint 1</summary>
+
+- [ ] Estruturar base de dados
+- [ ] Criar apresentação Sprint 1
+- [ ] Atualizar Github
+- [ ] Realizar o relatório da sprint
+- [ ] Tirar dúvidas com o cliente
+- [ ] Criar padrão Power BI
+- [ ] Analisar a evolução mensal do granel sólido
+- [ ] Calcular Prancha Média
+- [ ] Criar código inicial
 
 </details>
 
@@ -70,6 +112,7 @@ Requisitos não funcionais
 <summary>MVP Sprint 1</summary>
 
 </details>
+
 
 <details>
 <summary>Burndown Sprint 1</summary>
@@ -80,6 +123,16 @@ Requisitos não funcionais
 
 <details>
 <summary>Tarefas Sprint 2</summary>
+
+- [ ] Criar apresentação sprint 2
+- [ ] Atualizar GitHub
+- [ ] Realizar relatório da sprint
+- [ ] Tirar dúvidas com o cliente
+- [ ] Criar views no Power BI
+- [ ] Ajustes nos códigos (caso necessário)
+- [ ] Calcular produtividade do Setor Portuário Brasileiro
+- [ ] Ranking de eficiência
+- [ ] Comparar eficiência dos portos
 
 </details>
 
@@ -99,34 +152,22 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 3</summary>
 
+- [ ] Tirar dúvidas com o cliente
+- [ ] Realizar relatório final do projeto
+- [ ] Atualizar Github;
+- [ ] Criar apresentação para a feira de soluções
+- [ ] Ajustes no Power BI para apresentação da feira de soluções
+
 </details>
+
 
 <details>
 <summary>MVP Sprint 3</summary>
 
 </details>
 
-
 <details>
 <summary>Burndown Sprint 3</summary>
-
-</details>
-
-## Sprint 4.
-
-<details>
-<summary>Tarefas Sprint 4</summary>
-
-</details>
-
-
-<details>
-<summary>MVP Sprint 4</summary>
-
-</details>
-
-<details>
-<summary>Burndown Sprint 4</summary>
 
 </details>
 
