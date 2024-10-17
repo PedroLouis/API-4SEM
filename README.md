@@ -92,15 +92,15 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 1</summary>
 
-- [ ] Estruturar base de dados
-- [ ] Criar apresentação Sprint 1
-- [ ] Atualizar Github
-- [ ] Realizar o relatório da sprint
-- [ ] Tirar dúvidas com o cliente
-- [ ] Criar padrão Power BI
-- [ ] Analisar a evolução mensal do granel sólido
-- [ ] Calcular Prancha Média
-- [ ] Criar código inicial
+- [x] Estruturar base de dados
+- [x] Criar apresentação Sprint 1
+- [x] Atualizar Github
+- [x] Realizar o relatório da sprint
+- [x] Tirar dúvidas com o cliente
+- [x] Criar padrão Power BI
+- [x] Analisar a evolução mensal do granel sólido
+- [x] Calcular Prancha Média
+- [x] Criar código inicial
 
 </details>
 
