@@ -93,25 +93,28 @@ Requisitos não funcionais
 <summary>Tarefas Sprint 1</summary>
 
 - [x] Estruturar base de dados
-- [x] Criar apresentação Sprint 1
+- [x] Criar código inicial de cargas
 - [x] Atualizar Github
 - [x] Realizar o relatório da sprint
 - [x] Tirar dúvidas com o cliente
-- [x] Criar padrão Power BI
+- [x] Transcrever código para o Power BI
 - [x] Analisar a evolução mensal do granel sólido
-- [x] Calcular Prancha Média
-- [x] Criar código inicial
 
 </details>
 
 <details>
 <summary>MVP Sprint 1</summary>
+ 
+![WhatsApp Image 2024-10-18 at 01 29 30](https://github.com/user-attachments/assets/1303ec49-a01c-408f-9f43-55d8cab905ce)
 
 </details>
 
 
 <details>
 <summary>Burndown Sprint 1</summary>
+
+![WhatsApp Image 2024-10-18 at 16 05 05](https://github.com/user-attachments/assets/6d9a492c-3b79-4f19-9b0e-8bab5fd157c5)
+
 
 </details>
 
@@ -120,15 +123,13 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 2</summary>
 
-- [ ] Criar apresentação sprint 2
+- [ ] Calcular prancha média
+- [ ] Criar padrão no Power BI
 - [ ] Atualizar GitHub
 - [ ] Realizar relatório da sprint
 - [ ] Tirar dúvidas com o cliente
-- [ ] Criar views no Power BI
-- [ ] Ajustes nos códigos (caso necessário)
-- [ ] Calcular produtividade do Setor Portuário Brasileiro
 - [ ] Ranking de eficiência
-- [ ] Comparar eficiência dos portos
+- [ ] Ajustes nos códigos, caso necessário
 
 </details>
 
@@ -153,6 +154,7 @@ Requisitos não funcionais
 - [ ] Atualizar Github;
 - [ ] Criar apresentação para a feira de soluções
 - [ ] Ajustes no Power BI para apresentação da feira de soluções
+- [ ] Comparar eficiência dos portos
 
 </details>
 
