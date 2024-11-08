@@ -21,7 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 30/08/2024 | Concluído || 
 |00| 27/09/2024 | Concluída | [Ver Relatório]() | 
 |01| 18/10/2024 | Concluída | [Ver Relatório](https://github.com/user-attachments/files/17440078/RelatorioS1.pdf) | 
-|02| 08/11/2024 | A fazer | [Ver Relatório]() | 
+|02| 08/11/2024 | Concluída | [Ver Relatório](https://github.com/YuriAleixo/API-4SEM/tree/main/file:///C:/Users/Yuri/Downloads/Relatorio%20Sprint%20Yuri%202%20(1).pdf) | 
 |03| 29/11/2024 | A fazer | [Ver Relatório]() | 
 |Feira de Soluções| 12/12/2024 | A fazer |
 
