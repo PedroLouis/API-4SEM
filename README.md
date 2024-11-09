@@ -136,6 +136,8 @@ Requisitos não funcionais
 <details>
 <summary>MVP Sprint 2</summary>
 
+![imagem_2024-11-08_220830705](https://github.com/user-attachments/assets/2e93fbe3-161e-4675-83b9-e7aac9f60a9b)
+
 </details>
 
 
