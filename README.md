@@ -123,13 +123,13 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 2</summary>
 
-- [ ] Calcular prancha média
-- [ ] Criar padrão no Power BI
-- [ ] Atualizar GitHub
-- [ ] Realizar relatório da sprint
-- [ ] Tirar dúvidas com o cliente
-- [ ] Ranking de eficiência
-- [ ] Ajustes nos códigos, caso necessário
+- [x] Calcular prancha média
+- [x] Criar padrão no Power BI
+- [x] Atualizar GitHub
+- [x] Realizar relatório da sprint
+- [x] Tirar dúvidas com o cliente
+- [x] Ranking de eficiência
+- [x] Ajustes nos códigos, caso necessário
 
 </details>
 
