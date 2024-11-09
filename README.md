@@ -144,6 +144,8 @@ Requisitos não funcionais
 <details>
 <summary>Burndown Sprint 2</summary>
 
+![imagem_2024-11-08_221400151](https://github.com/user-attachments/assets/221a5e7e-631a-455f-bd19-85ae1d17b40e)
+
 </details>
 
 ## Sprint 3.
