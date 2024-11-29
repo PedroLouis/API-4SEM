@@ -169,6 +169,8 @@ Requisitos não funcionais
 
 ![Dea RStudio](https://github.com/user-attachments/assets/becd84cf-03de-4ef1-81ff-f1f7a2dd1f59)
 
+[Código Dea.docx](https://github.com/user-attachments/files/17962836/Codigo.Dea.docx)
+
 </details>
 
 <details>
