@@ -167,6 +167,8 @@ Requisitos não funcionais
 <details>
 <summary>MVP Sprint 3</summary>
 
+![Dea RStudio](https://github.com/user-attachments/assets/becd84cf-03de-4ef1-81ff-f1f7a2dd1f59)
+
 </details>
 
 <details>
