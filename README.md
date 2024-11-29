@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Histórico|
 |00| 27/09/2024 | Concluída | [Ver Relatório]() | 
 |01| 18/10/2024 | Concluída | [Ver Relatório](https://github.com/user-attachments/files/17440078/RelatorioS1.pdf) | 
 |02| 08/11/2024 | Concluída | [Ver Relatório](https://github.com/user-attachments/files/17685322/Relatorio.Sprint.Yuri.2.2.pdf) | 
-|03| 29/11/2024 | Concluída | [Ver Relatório]() | 
+|03| 29/11/2024 | Concluída | [Ver Relatório](https://github.com/user-attachments/files/17962738/Relatorio.Sprint.Yuri.2.2.1.pdf) | 
 |Feira de Soluções| 12/12/2024 | A fazer |
 
 # Equipe
