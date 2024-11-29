@@ -153,12 +153,13 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 3</summary>
 
-- [ ] Tirar dúvidas com o cliente
-- [ ] Realizar relatório final do projeto
-- [ ] Atualizar Github;
-- [ ] Criar apresentação para a feira de soluções
-- [ ] Ajustes no Power BI para apresentação da feira de soluções
-- [ ] Comparar eficiência dos portos
+- [X] Tirar dúvidas com o cliente
+- [X] Realizar relatório final do projeto
+- [X] Atualizar Github;
+- [X] Ranking de eficiência
+- [X] Ajustes no Power BI para apresentação da feira de soluções
+- [X] Comparar eficiência dos portos
+- [X] Calcular produtividade do setor Portuário Brasileiro
 
 </details>
 
