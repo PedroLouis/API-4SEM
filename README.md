@@ -176,6 +176,8 @@ Requisitos não funcionais
 <details>
 <summary>Burndown Sprint 3</summary>
 
+![Burndown](https://github.com/user-attachments/assets/3d2c0553-5da6-47f6-81b7-8eb99e782af5)
+
 </details>
 
 
